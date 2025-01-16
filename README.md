@@ -1,0 +1,1 @@
+Here is the CrowPanel-Advance-HMI-ESP32-AI-Display series screen program schematic datasheet and other information, you can download the corresponding information according to your own screen size, select the branch section.
